@@ -27,3 +27,16 @@ This project demonstrates how to use **linear regression** to predict taxi fares
 ```bash
 git clone https://github.com/<your-username>/chicago-taxi-linear-regression.git
 cd chicago-taxi-linear-regression
+
+---
+
+## **Install dependencies:**
+pip install -r requirements.txt
+
+---
+
+## **Open the notebook:**
+jupyter notebook notebooks/linear_regression_taxi.ipynb
+
+Or open in Google Colab by uploading the notebook.
+
